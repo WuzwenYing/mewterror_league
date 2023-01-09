@@ -96,13 +96,12 @@
 }
 
 .rcp-fe-viewport-sidebar {
-   background: url(https://konachan.com/sample/da0ff38…/Konachan.com%20-%20351280%20sample.jpg);
-   background-color: black !important;
-   background-size: cover;
-   background-repeat: no-repeat;
-   color: black;
-   background-position-x: center;
-   background-position-y: center;
+   background: url(https://konachan.com/sample/da0ff38…/Konachan.com%20-%20351280%20sample.jpg) !important;
+   background-size: cover !important;
+   background-repeat: no-repeat !important;
+   color: black !important;
+   background-position-x: center !important;
+   background-position-y: center !important;
 }
 
 .parties-view .parties-background {
@@ -274,13 +273,13 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
    display: none !important;
 }
 .social-plugin-home{
-   background-color: rgb(0 0 0 / 69%);
+   background-color: rgb(0 0 0 / 69%) !important;
 }
 
 .member-name{
-   color: #ffffffd1;
+   color: #ffffffd1 !important;
 }
 
 .alpha-tag{
-   color: #cab6b6;
+   color: #cab6b6 !important;
 }
