@@ -55,6 +55,10 @@
 .regalia-banner-v2-root .regalia-banner-asset-static .regalia-banner-asset-static-image {
    display: none !important;
 }
+
+.regalia-banner-asset-static-image {
+   display: none !important;
+}
 /*.icon-image {
    content: url('https://thicc-thighs.de/stuff/old_avatar.gif') !important;
 } */
