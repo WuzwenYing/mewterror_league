@@ -48,6 +48,13 @@
    left: 0;
 }
 
+.lol-social-actions-bar .friend-header{
+   font-size: 0.7rem;
+}
+
+.regalia-banner-v2-root .regalia-banner-asset-static .regalia-banner-asset-static-image {
+   display: none;
+}
 /*.icon-image {
    content: url('https://thicc-thighs.de/stuff/old_avatar.gif') !important;
 } */
@@ -196,10 +203,10 @@
    left: 1rem !important;
 }
 
-.league-client-logo {
+/* .league-client-logo {
    display: none !important;
-}
-
+} */
+/* 
 .play-button-container {
    background-color: rgba(22, 22, 22, 0.626);
    border-radius: 0.5rem;
@@ -226,7 +233,7 @@
 .play-button-container,
 .play-button-frame {
    background-image: none !important;
-}
+} */
 
 .v2-header-component {
    margin: 0;
