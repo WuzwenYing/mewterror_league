@@ -2,12 +2,12 @@
 
 /* Imports */
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 
 :root {
-   --font-display: 'Quicksand', sans-serif !important;
-   --font-body: 'Quicksand', sans-serif !important;
-   --background: url('https://raw.githubusercontent.com/WuzwenYing/mewterror_league/Main/bg.jpg') !important;
+   --font-display: 'Dosis', sans-serif !important;
+   --font-body: 'Dosis', sans-serif !important;
+   --background: url('https://thicc-thighs.de/stuff/wallpaper.jpg');
 }
 
 /* UI */
@@ -102,13 +102,13 @@
 
 /* Icons */
 
-/* .currency-be-icon-static {
+.currency-be-icon-static {
    background-image: url('https://thicc-thighs.de/stuff/image.jpg') !important;
 }
 
 .currency-rp {
    background-image: url('https://thicc-thighs.de/stuff/mow.jpg') !important;
-} */
+}
 
 .ticker-button {
    background-image: url(https://stickfab.github.io/pc-fluenticons/assets/24/info.svg) !important;
