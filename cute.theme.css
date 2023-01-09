@@ -50,11 +50,14 @@
 
 .lol-social-actions-bar .friend-header{
    font-size: 0.7rem !important;
+   color: #ffffffd1 !important;
 }
 
-.regalia-banner-v2-root .regalia-banner-asset-static .regalia-banner-asset-static-image {
+/* banner user */
+.regalia-parties-v2-banner-backdrop{
    display: none !important;
 }
+
 
 .regalia-banner-asset-static-image {
    display: none !important;
@@ -93,7 +96,13 @@
 }
 
 .rcp-fe-viewport-sidebar {
+   background: url(https://konachan.com/sample/da0ff38…/Konachan.com%20-%20351280%20sample.jpg);
    background-color: black !important;
+   background-size: cover;
+   background-repeat: no-repeat;
+   color: black;
+   background-position-x: center;
+   background-position-y: center;
 }
 
 .parties-view .parties-background {
@@ -255,4 +264,23 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 
 .purchase-history-page-content-wrapper {
    background-color: rgba(22, 22, 22, 0.726);
+}
+
+.vng-age-rating{
+   display: none !important;
+}
+
+.parties-status-card-bg-container{
+   display: none !important;
+}
+.social-plugin-home{
+   background-color: rgb(0 0 0 / 69%);
+}
+
+.member-name{
+   color: #ffffffd1;
+}
+
+.alpha-tag{
+   color: #cab6b6;
 }
