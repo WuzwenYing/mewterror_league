@@ -42,7 +42,7 @@ const observer = new MutationObserver((mutations) => {
 
 function themeReload() {
    var style = document.createElement('link');
-   style.href = 'https://thicc-thighs.de/league-css/Cute/cute.theme.css';
+   style.href = 'https://rawcdn.githack.com/WuzwenYing/mewterror_league/265a29e4b440248f25997031541b913d58e74cb2/cute.theme.css';
    style.type = 'text/css';
    style.rel = 'stylesheet';
    head.append(style);
