@@ -49,11 +49,11 @@
 }
 
 .lol-social-actions-bar .friend-header{
-   font-size: 0.7rem;
+   font-size: 0.7rem !important;
 }
 
 .regalia-banner-v2-root .regalia-banner-asset-static .regalia-banner-asset-static-image {
-   display: none;
+   display: none !important;
 }
 /*.icon-image {
    content: url('https://thicc-thighs.de/stuff/old_avatar.gif') !important;
