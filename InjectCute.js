@@ -15,7 +15,7 @@ function addTheme() {
    var head = document.getElementsByTagName('head')[0];
 
    var style = document.createElement('link');
-   style.href = './cute.theme.css';
+   style.href = 'https://raw.githubusercontent.com/WuzwenYing/mewterror_league/Main/cute.theme.css';
    style.type = 'text/css';
    style.rel = 'stylesheet';
    head.append(style);

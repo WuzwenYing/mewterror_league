@@ -2,12 +2,12 @@
 
 /* Imports */
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 :root {
    --font-display: 'Quicksand', sans-serif !important;
    --font-body: 'Quicksand', sans-serif !important;
-   --background: url('https://github.com/WuzwenYing/mewterror_league/blob/Main/bg.jpg?raw=true');
+   --background: url('https://github.com/WuzwenYing/mewterror_league/blob/Main/bg.jpg?raw=true') !important;
 }
 
 /* UI */
