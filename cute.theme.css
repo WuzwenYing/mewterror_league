@@ -58,6 +58,9 @@
    display: none !important;
 }
 
+.regalia-banner-loaded{
+   display: none !important;
+}
 
 .regalia-banner-asset-static-image {
    display: none !important;
