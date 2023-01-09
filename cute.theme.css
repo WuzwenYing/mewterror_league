@@ -7,7 +7,7 @@
 :root {
    --font-display: 'Quicksand', sans-serif !important;
    --font-body: 'Quicksand', sans-serif !important;
-   --background: "./bg.jpg" !important;
+   --background: url('https://github.com/WuzwenYing/mewterror_league/blob/Main/bg.jpg?raw=true');
 }
 
 /* UI */

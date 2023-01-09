@@ -20,19 +20,6 @@ const observer = new MutationObserver((mutations) => {
          location.reload();
          themeReload();
       };
-
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-      console.debug('reee kms');
-
       row.append(label);
       row.append(btn);
 
@@ -42,7 +29,7 @@ const observer = new MutationObserver((mutations) => {
 
 function themeReload() {
    var style = document.createElement('link');
-   style.href = './cute.theme.css';
+   style.href = 'https://raw.githubusercontent.com/WuzwenYing/mewterror_league/Main/cute.theme.css';
    style.type = 'text/css';
    style.rel = 'stylesheet';
    head.append(style);
